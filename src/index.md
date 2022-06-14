@@ -21,8 +21,8 @@ My previous teaching experience at Stanford include:
 * Papers not related to convex optimization are accessible via [Google Scholar](https://scholar.google.com/citations?user=wBkPd_cAAAAJ&hl=en&oi=ao)
 
 # Covers
-Using CAD, I illustrated cover pages for some of my publications:
-* [Advanced Materials, Vol 32, Issue 8, February 20, 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202070062)
+Using CAD, I illustrated for some of my publications and some of them were chosen as cover pages:
+* [Advanced Materials, Vol 32, Issue 8, February 20, 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202070062) which was also a finalist in [Art of Science 2021](https://mrs.stanford.edu/art-science-2021-exhibition)
 * [Advanced Materials, Vol 32, Issue 19, May 14, 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202070151) 
 * [Advanced Biosystems, Vol 4, Issue 6, June, 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adbi.202070062)
 
