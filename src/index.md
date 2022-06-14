@@ -2,7 +2,7 @@
     title: Mehmet Giray Öğüt
 ...
 
-![](/public/img/headshot.jpg "Giray's Headshot"){ width=50%}
+![](/public/headshot.jpg "Giray's Headshot"){ width=50%}
   
 PhD Candidate, Electrical Engineering, Stanford University  
 # Bio
