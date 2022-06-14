@@ -17,7 +17,9 @@ I completed my bachelors in electrical and electronics engineering at Boğaziçi
 I am excited to be a TA for Stephen Boyd's [EE364A](https://web.stanford.edu/class/ee364a/): Convex Optimization I class this summer! If you are studying the material in the [book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) or in [additional exercises](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook_extra_exercises.pdf) please do not hesitate to reach out to me so that we can think together. You can find coding tutorials on [CVXPY](https://www.cvxpy.org).
 
 My previous teaching experience at Stanford include:
+
 * [CS224W](https://web.stanford.edu/class/cs224w/) Machine Learning with Graphs (Fall 2021)
+
 * [CS236G](https://cs236g.stanford.edu) Generative Adversarial Networks (Winter 2021)
 
 # Papers
@@ -27,8 +29,11 @@ My previous teaching experience at Stanford include:
 # Covers
 
 Using CAD, I illustrated for some of my publications and a subset of them were chosen as journal covers such as:
+
 * [Advanced Materials, Vol 32, Issue 8, February 20, 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202070062) which was also a finalist in [Art of Science 2021](https://mrs.stanford.edu/art-science-2021-exhibition)
+
 * [Advanced Materials, Vol 32, Issue 19, May 14, 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202070151) 
+
 * [Advanced Biosystems, Vol 4, Issue 6, June, 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adbi.202070062)
 
 # Contact
