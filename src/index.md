@@ -1,40 +1,30 @@
 ---
-    title: Parth Nobel
+    title: Mehmet Giray Öğüt
 ...
 
 ![](/public/img/headshot.jpg "Parth Nobel's Headshot"){ width=50%}
-
-Visiting Scholar, Electrical Engineering and Computer Science, UC Berkeley  
+  
 PhD Candidate, Electrical Engineering, Stanford University  
-<ptnobel@stanford.edu>
+<giray98@stanford.edu>
 
-I will be at ICCOPT 2022!
+I am excited to be a TA for [EE364A](https://web.stanford.edu/class/ee364a/) this summer!
 
 # Bio
+I am a third year EE PhD candidate at Stanford and blessed to be advised by Professor [Stephen Boyd](https://web.stanford.edu/~boyd/). My research is on convex optimization with a focus on developing custom solvers. 
 
-I am a PhD candidate at Stanford University working with Professors [Stephen Boyd](https://web.stanford.edu/~boyd/) and [Emmanuel Candès](https://statweb.stanford.edu/~candes/) on optimization and its applications in statistics. I am supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
+I completed my bachelors in electrical and electronics engineering at Boğaziçi University, where I was admitted after ranking 1st among ~2 million students in national university entrance examinations [LYS 2016](https://docplayer.biz.tr/22331630-Mehmet-giray-ogut-elektrik-elektronik-muhendisligi-ingilizce-bogazici-universitesi.html). While in undergrad, I worked on early cancer detection under supervision of Professor [Utkan Demirci](https://bammlabs.stanford.edu) and my capstone project on modeling transmission patterns of computer worms was awarded the best senior design award in 2020. 
 
-During the summer of 2022, I will be a Visiting Scholar at UC Berkeley working with [Riley Murray](https://rileyjmurray.wordpress.com/) and Professor [Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) on randomized numerical linear algebra as part of the [BALLISTIC Project](https://www.netlib.org/lapack/lawnspdf/lawn297.pdf).
-
-Prior to attending Stanford, I was a Regents' and Chancellor's Scholar at UC Berkeley where I earned a Bachelors of Science in Electrical Engineering and Computer Science (EECS). I worked with Professor [Jaijeet Roychowdhury](https://jaijeet.github.io/jrpages/index.html) on system theory and numerical methods.
+# Teaching Experience
+* Fall 2021:[CS224W](https://web.stanford.edu/class/cs224w/) Machine Learning with Graphs
+* Winter 2022:[CS236G](https://cs236g.stanford.edu) Generative Adversarial Networks
+* Summer 2022:[EE364A](https://web.stanford.edu/class/ee364a/) EE364a: Convex Optimization I
 
 # Papers
 
-* **P. Nobel**, A. Agrawal, S. Boyd, Computing Tighter Bounds on the $n$-Queens Constant via Newton's Method. [arXiv:2112.03336 [math.OC]](https://arxiv.org/abs/2112.03336).
-* T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. *Nat Comput* **20**, 287–306 (2021). <https://doi.org/10.1007/s11047-021-09845-3>
-* **[Invited Paper]** T. Wang, L. Wu, **P. Nobel**, and J. Roychowdhury, Solving Combinatorial Optimisation Problems Using Oscillator Based Ising Machines. Unconventional Computation and Natural Computation (UCNC), August 2020.
-* **P. Nobel**, `auto_diff`: An Automatic Differentiation Package for Python, SpringSim'20, May 2020. <https://dl.acm.org/doi/10.5555/3408207.3408219>
+* Accessible via [Google Scholar](https://scholar.google.com/citations?user=wBkPd_cAAAAJ&hl=en&oi=ao)
 
-# Miscellaneous Other Writings
-
-I occasionally did significant writing for the UC Berkeley Model UN. That work is provided below:
-
-* [Conference on the Laws of War for the Cyber Era Background Guide](/pdfs/war.pdf) 
-* [Excerpts addressing power grid infrastructure from Group of Latin American and Carribean Countries: 2020 Background Guide](/pdfs/grulac.pdf)
-* [US Senate: Data Privacy Background Guide](/pdfs/data-privacy.pdf)
-
-I also have written quick-reference theorem lists for a couple classes at Berkeley. Other people have told me they're useful. I make no guarantees about the absence or presence of typos. 
-
-* [EE 120: Signals and Systems, Spring 2020 w/ Babak Ayazifar](/pdfs/EE120_Notes.pdf)
-* [Math 123: Ordinary Differential Equations, Fall 2020 w/ Di Fang](/pdfs/math123-final-thm-list.pdf)
-* [Math 185: Complex Analysis, Spring 2021 w/ Di Fang](/pdfs/math185-thm-list.pdf)
+# Covers
+Using CAD, I illustrated cover pages for some of my publications above:
+* [Advanced Materials, Vol 32, Issue 8, February 20, 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202070062)
+* [Advanced Materials, Vol 32, Issue 19, May 14, 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202070151) 
+* [Advanced Biosystems, Vol 4, Issue 6, June, 2020](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adbi.202070062)
