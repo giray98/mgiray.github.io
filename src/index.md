@@ -10,7 +10,7 @@ I am a third year EE PhD candidate at Stanford and blessed to be advised by Prof
 
 I completed my bachelors in electrical and electronics engineering at Boğaziçi University, where I was admitted after ranking 1st among ~2 million students in national university entrance examinations [LYS 2016](https://docplayer.biz.tr/22331630-Mehmet-giray-ogut-elektrik-elektronik-muhendisligi-ingilizce-bogazici-universitesi.html). While in undergrad, I worked on early cancer detection with Professor [Utkan Demirci](https://bammlabs.stanford.edu) and in the beginning of my PhD I also got involved with [computer vision](https://openaccess.thecvf.com/content/CVPR2021/papers/Weng_Unsupervised_Discovery_of_the_Long-Tail_in_Instance_Segmentation_Using_Hierarchical_CVPR_2021_paper.pdf) and [foundation models](https://arxiv.org/pdf/2108.07258.pdf?utm_source=morning_brew). 
 
-# EE364A/CME364A
+# EE364A
 I am excited to be a TA for [EE364A](https://web.stanford.edu/class/ee364a/) this summer! If you are studying the material in the [book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) or in [additional exercises](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook_extra_exercises.pdf) please do not hesitate to reach out to me so that we can think together. If you have questions on coding implementation, please check out tutorials on [CVXPY](https://www.cvxpy.org).
 
 My previous teaching experience at Stanford include:
