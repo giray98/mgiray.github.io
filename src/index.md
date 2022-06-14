@@ -18,7 +18,7 @@ My previous teaching experience at Stanford include:
 * Winter 2021: [CS236G](https://cs236g.stanford.edu) Generative Adversarial Networks
 
 # Papers
-* I am Papers not related to convex optimization are accessible via [Google Scholar](https://scholar.google.com/citations?user=wBkPd_cAAAAJ&hl=en&oi=ao)
+* Papers not related to convex optimization are accessible via [Google Scholar](https://scholar.google.com/citations?user=wBkPd_cAAAAJ&hl=en&oi=ao)
 
 # Covers
 Using CAD, I illustrated cover pages for some of my publications:
