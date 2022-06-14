@@ -12,7 +12,7 @@ I am a EE PhD candidate at Stanford and consider myself extremely lucky to be ad
 
 I completed my bachelors in electrical and electronics engineering at Boğaziçi University, where I was admitted after ranking 1st among ~2 million students in [LYS 2016](https://docplayer.biz.tr/22331630-Mehmet-giray-ogut-elektrik-elektronik-muhendisligi-ingilizce-bogazici-universitesi.html). In undergrad, I worked on early cancer detection with Professor Utkan Demirci. I also got involved in [computer vision](https://openaccess.thecvf.com/content/CVPR2021/papers/Weng_Unsupervised_Discovery_of_the_Long-Tail_in_Instance_Segmentation_Using_Hierarchical_CVPR_2021_paper.pdf) and [foundation models](https://arxiv.org/pdf/2108.07258.pdf?utm_source=morning_brew) during PhD rotations. 
 
-# EE364A
+# Teaching
 
 I am very excited to be a TA for Stephen Boyd's [EE364A:Convex Optimization I](https://web.stanford.edu/class/ee364a/) class this summer! 
 If you are studying the material in the [book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) or in [additional exercises](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook_extra_exercises.pdf) please do not hesitate to reach out to me so that we can think together. You can find coding tutorials on [CVXPY](https://www.cvxpy.org).
