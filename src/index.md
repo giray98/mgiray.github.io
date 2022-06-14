@@ -6,7 +6,7 @@
   
 PhD Candidate, Electrical Engineering, Stanford University  
 # Bio
-I am a third year EE PhD candidate at Stanford and blessed to be advised by Professor [Stephen Boyd](https://web.stanford.edu/~boyd/). My research is on convex optimization with a focus on developing custom solvers. 
+I am a third year EE PhD candidate at Stanford and blessed to be advised by Professor [Stephen Boyd](https://web.stanford.edu/~boyd/). My research is on convex optimization with a focus on developing customized solvers. 
 
 I completed my bachelors in electrical and electronics engineering at Boğaziçi University, where I was admitted after ranking 1st among ~2 million students in [LYS 2016](https://docplayer.biz.tr/22331630-Mehmet-giray-ogut-elektrik-elektronik-muhendisligi-ingilizce-bogazici-universitesi.html). In undergrad, I worked on early cancer detection with Professor [Utkan Demirci](https://bammlabs.stanford.edu). I also got involved with [computer vision](https://openaccess.thecvf.com/content/CVPR2021/papers/Weng_Unsupervised_Discovery_of_the_Long-Tail_in_Instance_Segmentation_Using_Hierarchical_CVPR_2021_paper.pdf) and [foundation models](https://arxiv.org/pdf/2108.07258.pdf?utm_source=morning_brew) at the beginning of my PhD. 
 
